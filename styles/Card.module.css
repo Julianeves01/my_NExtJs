@@ -1,0 +1,29 @@
+.card {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: lightpink;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 1rem auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+.cardTitle {
+    color: deeppink;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+@media (max-width: 600px) {
+    .card {
+        width: 100%;
+    }
+}

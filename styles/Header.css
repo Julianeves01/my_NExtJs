@@ -1,0 +1,22 @@
+.header {
+    background-color: plum;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: darkmagenta;
+    padding: 10px;
+    width: 100%;
+}
+
+.title {
+    color: darkmagenta;
+    text-align: center;
+    font-size: 2rem;
+}
+
+@media (max-width: 600px) {
+    .title {
+        font-size: 2rem;
+    }
+}
