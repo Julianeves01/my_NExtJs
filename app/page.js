@@ -14,8 +14,8 @@ export default function Home() {
           <Card className={styles.card} title="Card 3" content= "this is card 3" />
         </div>
         <aside className={styles.aside}>
-          <div className={styles.teste}>
-            <img src ="https://i.pinimg.com/736x/97/20/71/972071d0eae29550f064b3c5226cb08c.jpg" />
+          <div className={styles.divertidamente}>
+            <img src="/divertidamente.jpg" alt="Divertidamente" />
           </div>
         </aside>
       </main>
