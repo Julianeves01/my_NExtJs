@@ -1,4 +1,4 @@
-# 🌟 **My Next.js Project**
+# 🎀 **My Next.js Project**
 
 Bem-vindo ao **My Next.js Project**! Este é um projeto desenvolvido com o framework **Next.js**, focado em criar uma aplicação web moderna, responsiva e estilizada. 🚀
 
