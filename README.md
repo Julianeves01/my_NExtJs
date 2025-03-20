@@ -80,7 +80,7 @@ Os estilos são organizados em arquivos CSS Modules, garantindo que cada compone
 
 Para visualizar meu projeto no Vercel, acesse o link abaixo:
 
-- [Projeto Vercel](my-n-ext-js.vercel.app) - Espero que tenha gostado!.
+- [Projeto Vercel](https://my-n-ext-js.vercel.app/) - Espero que tenha gostado!.
 
 
 ---
