@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌟 **My Next.js Project**
 
-## Getting Started
+Bem-vindo ao **My Next.js Project**! Este é um projeto desenvolvido com o framework **Next.js**, focado em criar uma aplicação web moderna, responsiva e estilizada. 🚀
 
-First, run the development server:
+## 🛠️ **<span style="color:deeppink;">Tecnologias Utilizadas</span>**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- **Next.js**: Framework React para renderização do lado do servidor (SSR) e geração de sites estáticos.
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **CSS Modules**: Para estilização modular e escopo isolado de estilos.
+- **HTML5 e CSS3**: Para estruturação e estilização da aplicação.
+
+## 📂 **<span style="color:deeppink;">Estrutura do Projeto</span>**
+
+Abaixo está uma visão geral da estrutura de pastas do projeto:
+
+```
+my_nextJS/
+├── components/       # Componentes reutilizáveis
+├── pages/            # Páginas da aplicação
+├── public/           # Arquivos estáticos (imagens, ícones, etc.)
+├── styles/           # Arquivos CSS Modules
+│   ├── Card.module.css
+│   ├── Footer.module.css
+│   ├── Home.module.css
+│   └── ...
+├── package.json      # Dependências e scripts do projeto
+└── README.md         # Documentação do projeto
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ **<span style="color:deeppink;">Funcionalidades</span>**
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **💻 Design Responsivo**: A aplicação é totalmente responsiva, adaptando-se a diferentes tamanhos de tela.
+- **🧩 Componentização**: Uso de componentes reutilizáveis como `Card`, `Footer` e outros.
+- **🎨 Estilização Modular**: Estilos isolados para cada componente utilizando CSS Modules.
+- **🖱️ Interatividade**: Animações suaves e transições ao passar o mouse sobre elementos interativos.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 **<span style="color:deeppink;">Como Executar o Projeto</span>**
 
-## Learn More
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/my_nextjs.git
+   ```
+2. Acesse o diretório do projeto:
+   ```bash
+   cd my_nextjs
+   ```
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
+4. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run dev
+   ```
+5. Abra o navegador e acesse:
+   ```
+   http://localhost:3000
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+## 📸 **<span style="color:deeppink;">Demonstração</span>**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🃏 Cards Interativos
+Os cards possuem animações suaves ao passar o mouse, aumentando levemente de tamanho e intensificando a sombra.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 📱 Layout Responsivo
+O layout se adapta perfeitamente a dispositivos móveis, tablets e desktops.
 
-## Deploy on Vercel
+## 📝 **<span style="color:deeppink;">Estilização</span>**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Os estilos são organizados em arquivos CSS Modules, garantindo que cada componente tenha seu escopo de estilo isolado. Por exemplo:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Card.module.css**: Estilização dos componentes de card.
+- **Footer.module.css**: Estilização do rodapé.
+- **Home.module.css**: Estilização da página inicial.
+- **Header.module.css**: Estilização do cabeçalho.
+- **globals.css**: Estilos globais aplicados a toda a aplicação.
+
+
+## 📖 **<span style="color:deeppink;">Visualize meu projeto:</span>**
+
+Para visualizar meu projeto no Vercel, acesse o link abaixo:
+
+- [Projeto Vercel](my-n-ext-js.vercel.app) - Espero que tenha gostado!.
+
+
+---
+
+Desenvolvido por Julia Simões Neves.
