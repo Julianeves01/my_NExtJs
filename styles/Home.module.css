@@ -40,13 +40,9 @@
     max-width: 500px;
     object-fit: cover;
     border-radius: 10px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    transition: transform 0.3s ease-in-out;
+    transition: none; /* Remove qualquer transição */
 }
 
-.divertidamente img:hover {
-    transform: scale(1.1);
-}
 
 @media (max-width: 800px) and (max-width: 1024px) {
     .main {
